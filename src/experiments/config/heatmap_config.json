@@ -1,0 +1,11 @@
+{
+    "alpha": 5,
+    "batch_size": 128,
+    "gpu": true,
+    "lr": 5e-4,
+    "opt_weight_decay": 2e-4,
+    "resnet_trainable": true,
+    "warmup_epochs": 1,
+    "optimizer": "adam",
+    "num_of_mini_batch":1
+}

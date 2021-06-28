@@ -1,0 +1,14 @@
+{
+    "batch_size": 128,
+    "lr": 0.0001,
+    "opt_weight_decay": 0.000001,
+    "output_dim": 64,
+    "projection_head_hidden_dim": 256,
+    "projection_head_input_dim": 128,
+    "warmup_epochs": 10,
+    "num_of_mini_batch": 1,
+    "augmentation": [],
+    "optimizer": "LARS",
+    "preserve_heatmap": false,
+    "use_mask": true
+}

@@ -1,0 +1,30 @@
+{
+    "pairwise": {
+        "augmentation_flags": {
+            "color_drop": false,
+            "color_jitter": false,
+            "crop": false,
+            "cut_out": false,
+            "gaussian_blur": false,
+            "random_crop": false,
+            "resize": true,
+            "rotate": false,
+            "gaussian_noise": false,
+            "sobel_filter": false
+        }
+    },
+    "contrastive": {
+        "augmentation_flags": {
+            "color_drop": false,
+            "color_jitter": false,
+            "crop": false,
+            "cut_out": false,
+            "gaussian_blur": false,
+            "random_crop": false,
+            "resize": true,
+            "rotate": false,
+            "gaussian_noise": false,
+            "sobel_filter": false
+        }
+    }
+}

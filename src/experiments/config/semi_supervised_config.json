@@ -1,0 +1,16 @@
+{
+    "batch_size": 128,
+    "lr": 4.42e-5,
+    "opt_weight_decay":2e-4,
+    "warmup_epochs": 0,
+    "saved_model_name": "",
+    "alpha": 5,
+    "gpu": true,
+    "checkpoint": "",
+    "optimizer": "adam",
+    "num_of_mini_batch": 1,
+    "resnet_trainable": true,
+    "encoder_trainable": false,
+    "resnet_size":"50",
+    "lr_max_epochs":null
+}

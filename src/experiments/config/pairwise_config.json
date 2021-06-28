@@ -1,0 +1,11 @@
+{
+    "batch_size": 128,
+    "lr": 1e-4,
+    "opt_weight_decay": 1e-6,
+    "transformation_head_hidden_dim": 1024,
+    "transformation_head_input_dim": 512,
+    "warmup_epochs": 10,
+    "optimizer": "LARS",
+    "num_of_mini_batch": 1,
+    "resnet_size":"18"
+}
